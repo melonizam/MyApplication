@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "855652043137",
+    "firebase_url": "https://myapplication-96a61.firebaseio.com",
+    "project_id": "myapplication-96a61",
+    "storage_bucket": "myapplication-96a61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855652043137:android:f10bd93d9754b6ca",
+        "android_client_info": {
+          "package_name": "com.notes.tyrocity.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855652043137-bqsr8gu8nvtu3vg4qh3k026l2uklifr3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.notes.tyrocity.myapplication",
+            "certificate_hash": "02b8e8a5a553aa013dc0e8ec03aab6cf8ae5794c"
+          }
+        },
+        {
+          "client_id": "855652043137-es7bn55aae6j1qifljlf7cguiro3av00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDJp7TvAA6TgdekdSyJsy8vHDXqyCsJJY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855652043137-es7bn55aae6j1qifljlf7cguiro3av00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
